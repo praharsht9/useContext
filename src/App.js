@@ -2,7 +2,7 @@ import { createContext } from 'react';
 import './App.css';
 import ChildA from './ChildA';
 
-/* Create, Provide , useContext */
+// create , Provider(pass value), useContext
 
 const data = createContext();
 const data1 = createContext();
